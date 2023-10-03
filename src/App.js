@@ -14,8 +14,8 @@ function App() {
 
       {/* Contact Section */}
       <section className="text-center p-10 mt-10 bg-white rounded-lg shadow-md w-full md:w-1/2">
-        <h2 className="text-2xl font-semibold">Contact Me</h2>
-        <p className="text-lg mt-2">Reach me at: example@email.com</p>
+        <h2 className="text-2xl font-semibold">Github:</h2>
+        <p className="text-lg mt-2">https://github.com/chrisfitzgerald</p>
       </section>
     </div>
   );

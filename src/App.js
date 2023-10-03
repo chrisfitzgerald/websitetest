@@ -5,7 +5,7 @@ import React from 'react';
 
 function App() {
   return (
-    <div className="min-h-screen flex flex-col justify-center items-center bg-gray-50 text-gray-900">
+    <div className="min-h-screen flex flex-col justify-center items-center bg-orange-700 text-gray-900">
       {/* Hero Section */}
       <section className="text-center p-10 bg-white rounded-lg shadow-md w-full md:w-1/2">
         <h1 className="text-4xl font-semibold">Welcome to My Website</h1>
